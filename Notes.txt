@@ -1,0 +1,5 @@
+https://github.com/leifermendez/node-paypal-express
+https://www.youtube.com/watch?v=Zm8_c8tnOkQ
+
+npm init -y
+npm i @paypal/checkout-server-sdk body-parser cors express request
